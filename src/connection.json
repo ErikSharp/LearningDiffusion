@@ -1,0 +1,6 @@
+{
+    "host": "eriksharpc-nrywqv.au.diffusion.cloud",
+    "port": 80,
+    "principal": "admin",
+    "credentials": "put password here"
+}

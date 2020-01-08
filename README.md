@@ -1,0 +1,1 @@
+This is a simple Node.js application that shows how to use [Diffusion](https://www.pushtechnology.com/diffusion-overview/). You have change the password in the connection.json file so that it can connect to the cloud service.

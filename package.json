@@ -1,0 +1,12 @@
+{
+    "name": "learningdiffusion",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "diffusion": "^6.3.4"
+    },
+    "devDependencies": {}
+}
